@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvin Valdez</h1>
 <h3 align="center">A passionate Junior Fullstack Developer from Toronto, Ontario Canada</h3>
 
-- 🔭 I’m currently working on [Comic Scraper](https://github.com/AlvinValdez/comicscraper)
-
-- 🌱 I’m currently learning **C# and Next.js**
-
 - 📫 How to reach me **alvin.valdez.1111@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
